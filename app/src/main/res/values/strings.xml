@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EremeevPR_01_01</string>
+    <string-array name="units_array">
+        <item>Байт</item>
+        <item>Килобайт</item>
+        <item>Мегабайт</item>
+        <item>Гигабайт</item>
+    </string-array>
+</resources>
